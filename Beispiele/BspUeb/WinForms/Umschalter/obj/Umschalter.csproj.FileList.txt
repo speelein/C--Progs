@@ -1,0 +1,5 @@
+bin\Debug\RadioCheck.exe
+bin\Debug\RadioCheck.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RadioCheck.exe
+obj\Debug\RadioCheck.pdb

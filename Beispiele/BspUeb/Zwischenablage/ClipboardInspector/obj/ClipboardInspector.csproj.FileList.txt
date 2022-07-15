@@ -1,0 +1,6 @@
+obj\Debug\ClipboardInspector.exe
+obj\Debug\ClipboardInspector.pdb
+bin\Debug\ClipboardInspector.exe
+bin\Debug\ClipboardInspector.pdb
+bin\Debug\Wolfram.NETLink.dll
+obj\Debug\ResolveAssemblyReference.cache

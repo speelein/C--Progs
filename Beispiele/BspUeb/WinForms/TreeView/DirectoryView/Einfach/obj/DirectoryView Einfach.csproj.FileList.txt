@@ -1,0 +1,5 @@
+obj\Debug\DirectoryView.exe
+obj\Debug\DirectoryView.pdb
+bin\Debug\DirectoryView.exe
+bin\Debug\DirectoryView.pdb
+obj\Debug\ResolveAssemblyReference.cache

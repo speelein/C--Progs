@@ -1,0 +1,8 @@
+bin\Debug\StringUtil.exe
+bin\Debug\StringUtil.pdb
+obj\Debug\StringUtil.exe
+obj\Debug\StringUtil.pdb
+bin\Release\StringUtil.exe
+bin\Release\StringUtil.pdb
+obj\Release\StringUtil.exe
+obj\Release\StringUtil.pdb

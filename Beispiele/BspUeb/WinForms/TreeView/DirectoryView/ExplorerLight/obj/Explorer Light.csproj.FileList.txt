@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\ExplorerLight.exe
+bin\Debug\ExplorerLight.pdb
+obj\Debug\ExplorerLight.exe
+obj\Debug\ExplorerLight.pdb
