@@ -1,0 +1,8 @@
+bin\Release\b4 Klone.exe
+bin\Release\b4 Klone.pdb
+obj\Release\b4 Klone.exe
+obj\Release\b4 Klone.pdb
+bin\Debug\b4 Klone.exe
+bin\Debug\b4 Klone.pdb
+obj\Debug\b4 Klone.exe
+obj\Debug\b4 Klone.pdb

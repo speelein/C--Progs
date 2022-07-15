@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Nullable>enable</Nullable>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>UnhandledException</AssemblyName>
+    <RootNamespace>UnhandledException</RootNamespace>
+    <AutoGenerateBindingRedirects>false</AutoGenerateBindingRedirects>
+    <TargetFramework>net5.0-windows7.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

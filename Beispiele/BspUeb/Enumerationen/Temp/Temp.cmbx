@@ -1,0 +1,16 @@
+<Combine fileversion="1.0" name="Temp" description="">
+  <StartMode startupentry="Temp" single="True">
+    <Execute entry="Temp" type="None" />
+  </StartMode>
+  <Entries>
+    <Entry filename=".\Temp.prjx" />
+  </Entries>
+  <Configurations active="Debug">
+    <Configuration name="Release">
+      <Entry name="Temp" configurationname="Debug" build="False" />
+    </Configuration>
+    <Configuration name="Debug">
+      <Entry name="Temp" configurationname="Debug" build="False" />
+    </Configuration>
+  </Configurations>
+</Combine>

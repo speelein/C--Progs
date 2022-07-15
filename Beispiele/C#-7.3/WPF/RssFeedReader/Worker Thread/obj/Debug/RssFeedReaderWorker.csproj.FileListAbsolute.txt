@@ -1,0 +1,14 @@
+U:\Eigene Dateien\C#\BspUeb\WPF\RssFeedReader\Worker Thread\bin\Debug\RssFeedReader.exe
+U:\Eigene Dateien\C#\BspUeb\WPF\RssFeedReader\Worker Thread\bin\Debug\RssFeedReader.pdb
+U:\Eigene Dateien\C#\BspUeb\WPF\RssFeedReader\Worker Thread\obj\Debug\RssFeedReaderWorker.csprojAssemblyReference.cache
+U:\Eigene Dateien\C#\BspUeb\WPF\RssFeedReader\Worker Thread\obj\Debug\MainWindow.g.cs
+U:\Eigene Dateien\C#\BspUeb\WPF\RssFeedReader\Worker Thread\obj\Debug\App.g.cs
+U:\Eigene Dateien\C#\BspUeb\WPF\RssFeedReader\Worker Thread\obj\Debug\RssFeedReader_MarkupCompile.cache
+U:\Eigene Dateien\C#\BspUeb\WPF\RssFeedReader\Worker Thread\obj\Debug\RssFeedReader_MarkupCompile.lref
+U:\Eigene Dateien\C#\BspUeb\WPF\RssFeedReader\Worker Thread\obj\Debug\MainWindow.baml
+U:\Eigene Dateien\C#\BspUeb\WPF\RssFeedReader\Worker Thread\obj\Debug\RssFeedReader.g.resources
+U:\Eigene Dateien\C#\BspUeb\WPF\RssFeedReader\Worker Thread\obj\Debug\RssFeedReader.Properties.Resources.resources
+U:\Eigene Dateien\C#\BspUeb\WPF\RssFeedReader\Worker Thread\obj\Debug\RssFeedReaderWorker.csproj.GenerateResource.cache
+U:\Eigene Dateien\C#\BspUeb\WPF\RssFeedReader\Worker Thread\obj\Debug\RssFeedReaderWorker.csproj.CoreCompileInputs.cache
+U:\Eigene Dateien\C#\BspUeb\WPF\RssFeedReader\Worker Thread\obj\Debug\RssFeedReader.exe
+U:\Eigene Dateien\C#\BspUeb\WPF\RssFeedReader\Worker Thread\obj\Debug\RssFeedReader.pdb

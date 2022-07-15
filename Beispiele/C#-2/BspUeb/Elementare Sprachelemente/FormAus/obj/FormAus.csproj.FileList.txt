@@ -1,0 +1,4 @@
+bin\Debug\FormAus.exe
+bin\Debug\FormAus.pdb
+obj\Debug\FormAus.exe
+obj\Debug\FormAus.pdb

@@ -1,0 +1,20 @@
+﻿<Window x:Class="DmToEuroBinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="DM &#x27a0; Euro" Height="150" Width="400" Loaded="Window_Loaded" >
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+            <Label Content="DM:" />
+            <TextBox x:Name="tbEingabe" VerticalContentAlignment="Center" MinWidth="120" TextAlignment="Right" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Column="1" VerticalAlignment="Center">
+            <Label Content="Euro:"/>
+            <Label BorderBrush="Black" BorderThickness="1" MinWidth="120" HorizontalContentAlignment="Right"
+                    Content="{Binding ElementName=tbEingabe, Path=Text, Converter={StaticResource DmToEuroConverter}}" />
+        </StackPanel>
+    </Grid>
+</Window>

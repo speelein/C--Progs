@@ -1,0 +1,8 @@
+obj\Debug\Interop.EuroKonverter.dll
+obj\Debug\COMClientCS.csproj.ResolveComReference.cache
+bin\Debug\COMClientCS.exe
+bin\Debug\COMClientCS.pdb
+bin\Debug\Interop.EuroKonverter.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\COMClientCS.exe
+obj\Debug\COMClientCS.pdb

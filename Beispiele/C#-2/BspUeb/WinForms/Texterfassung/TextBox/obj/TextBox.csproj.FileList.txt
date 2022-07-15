@@ -1,0 +1,5 @@
+bin\Debug\TextBox.exe
+bin\Debug\TextBox.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TextBox.exe
+obj\Debug\TextBox.pdb

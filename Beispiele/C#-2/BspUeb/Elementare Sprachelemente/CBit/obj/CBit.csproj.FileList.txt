@@ -1,0 +1,4 @@
+bin\Debug\CBit.exe
+bin\Debug\CBit.pdb
+obj\Debug\CBit.exe
+obj\Debug\CBit.pdb

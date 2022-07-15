@@ -1,0 +1,4 @@
+bin\Debug\Lotto.exe
+bin\Debug\Lotto.pdb
+obj\Debug\Lotto.exe
+obj\Debug\Lotto.pdb

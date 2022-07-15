@@ -1,0 +1,10 @@
+..\bin\Debug\dns.exe
+..\bin\Debug\dns.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DNS.MainForm.resources
+obj\Debug\dns.exe
+obj\Debug\dns.pdb
+..\bin\Release\dns.exe
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\DNS.MainForm.resources
+obj\Release\dns.exe

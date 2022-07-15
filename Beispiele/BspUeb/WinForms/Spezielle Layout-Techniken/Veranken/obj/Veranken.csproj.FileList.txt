@@ -1,0 +1,5 @@
+bin\Debug\Veranken.exe
+bin\Debug\Veranken.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Veranken.exe
+obj\Debug\Veranken.pdb

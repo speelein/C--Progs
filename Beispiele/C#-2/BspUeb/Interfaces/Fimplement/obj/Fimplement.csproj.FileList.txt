@@ -1,0 +1,4 @@
+bin\Debug\Fimplement.exe
+bin\Debug\Fimplement.pdb
+obj\Debug\Fimplement.exe
+obj\Debug\Fimplement.pdb

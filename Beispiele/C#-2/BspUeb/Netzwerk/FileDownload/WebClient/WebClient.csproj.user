@@ -1,0 +1,8 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>ftp://ftp.mcafee.com/pub/datfiles/german/dat-4959.zip dat-4959.zip</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartArguments>ftp://ftp.mcafee.com/pub/datfiles/german/dat-4959.zip dat-4959.zip</StartArguments>
+  </PropertyGroup>
+</Project>

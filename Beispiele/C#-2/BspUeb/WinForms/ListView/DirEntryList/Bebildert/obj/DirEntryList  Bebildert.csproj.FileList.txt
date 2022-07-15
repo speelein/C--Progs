@@ -1,0 +1,5 @@
+obj\Debug\DirEntryList.exe
+obj\Debug\DirEntryList.pdb
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\DirEntryList.exe
+bin\Debug\DirEntryList.pdb

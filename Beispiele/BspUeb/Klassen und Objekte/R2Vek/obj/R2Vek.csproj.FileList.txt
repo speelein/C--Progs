@@ -1,0 +1,8 @@
+bin\Release\R2Vek.exe
+bin\Release\R2Vek.pdb
+obj\Release\R2Vek.exe
+obj\Release\R2Vek.pdb
+bin\Debug\R2Vek.exe
+bin\Debug\R2Vek.pdb
+obj\Debug\R2Vek.exe
+obj\Debug\R2Vek.pdb

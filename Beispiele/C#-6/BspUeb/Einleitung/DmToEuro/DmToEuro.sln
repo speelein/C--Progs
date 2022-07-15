@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DmToEuro", "DmToEuro.csproj", "{DA142BF8-9C0B-44A3-8B94-06A25010E01E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA142BF8-9C0B-44A3-8B94-06A25010E01E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA142BF8-9C0B-44A3-8B94-06A25010E01E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA142BF8-9C0B-44A3-8B94-06A25010E01E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA142BF8-9C0B-44A3-8B94-06A25010E01E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

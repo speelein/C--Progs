@@ -1,0 +1,8 @@
+bin\Debug\NaN.exe
+bin\Debug\NaN.pdb
+obj\Debug\NaN.exe
+obj\Debug\NaN.pdb
+bin\Release\NaN.exe
+bin\Release\NaN.pdb
+obj\Release\NaN.exe
+obj\Release\NaN.pdb

@@ -1,0 +1,5 @@
+bin\Debug\DM2Euro.exe
+bin\Debug\DM2Euro.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DM2Euro.exe
+obj\Debug\DM2Euro.pdb

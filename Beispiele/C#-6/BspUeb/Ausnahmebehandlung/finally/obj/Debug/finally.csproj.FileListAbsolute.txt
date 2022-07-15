@@ -1,0 +1,4 @@
+U:\Eigene Dateien\C#\BspUeb\Ausnahmebehandlung\finally\bin\Debug\FinallyDemo.exe
+U:\Eigene Dateien\C#\BspUeb\Ausnahmebehandlung\finally\bin\Debug\FinallyDemo.pdb
+U:\Eigene Dateien\C#\BspUeb\Ausnahmebehandlung\finally\obj\Debug\FinallyDemo.exe
+U:\Eigene Dateien\C#\BspUeb\Ausnahmebehandlung\finally\obj\Debug\FinallyDemo.pdb

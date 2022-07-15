@@ -1,0 +1,8 @@
+bin\Debug\WaitPulse.exe
+bin\Debug\WaitPulse.pdb
+obj\Debug\WaitPulse.exe
+obj\Debug\WaitPulse.pdb
+bin\Release\WaitPulse.exe
+bin\Release\WaitPulse.pdb
+obj\Release\WaitPulse.exe
+obj\Release\WaitPulse.pdb

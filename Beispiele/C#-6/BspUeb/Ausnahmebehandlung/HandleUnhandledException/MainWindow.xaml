@@ -1,0 +1,15 @@
+﻿<Window x:Class="HandleUnhandledException.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HandleUnhandledException"
+        mc:Ignorable="d"
+        Title="HandleUnhandledException" Height="190.662" Width="456.907">
+    <Grid>
+        <Button x:Name="button1" Content="Berechne 10/0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="101" Margin="54,38,0,0" Click="button1_Click"/>
+        <Button x:Name="button2" Content="Berechne 10/10" HorizontalAlignment="Left" VerticalAlignment="Top" Width="95" Margin="300,38,0,0" Click="button2_Click"/>
+        <Label x:Name="label" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="202,91,0,0" Width="52"/>
+
+    </Grid>
+</Window>

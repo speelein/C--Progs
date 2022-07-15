@@ -1,0 +1,15 @@
+﻿<Window x:Class="TextBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PasswordBox" Height="166" Width="303" ResizeMode="NoResize" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition /> <RowDefinition />
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label Content ="Ihr Passwort:" Height="28" Margin="10"/>
+            <PasswordBox Name="pw" Width="120" Height="23"/>
+        </StackPanel>
+        <Button Name="button" Grid.Row="1" Content="Klartext anzeigen" Height="23" Click="button_Click" IsDefault="True" HorizontalAlignment="Center" VerticalAlignment="Center" />
+    </Grid>
+</Window>

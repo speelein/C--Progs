@@ -1,0 +1,5 @@
+bin\Debug\SystemColors.exe
+bin\Debug\SystemColors.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SystemColors.exe
+obj\Debug\SystemColors.pdb

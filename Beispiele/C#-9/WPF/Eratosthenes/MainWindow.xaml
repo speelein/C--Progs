@@ -1,0 +1,15 @@
+﻿<Window x:Class="Eratosthenes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Eratosthenes"
+        mc:Ignorable="d"
+        Title="Sieb des Eratosthenes" Height="400" Width="500">
+    <Grid>
+        <Label x:Name="label" Content="Suchen bis (2 - 2146435070)" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,11,0,0" VerticalContentAlignment="Center" Height="24" Width="169" IsEnabled="False"/>
+        <Button x:Name="btnStart" Content="Suche starten" Margin="0,13,10,0" VerticalAlignment="Top" HorizontalAlignment="Right" Click="btnStart_Click" Width="92" Grid.Column="1"/>
+        <TextBox x:Name="textBox" Margin="179,15,112,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="listBox" Margin="10,50,10,10" ScrollViewer.HorizontalScrollBarVisibility="Disabled"/>
+    </Grid>
+</Window>

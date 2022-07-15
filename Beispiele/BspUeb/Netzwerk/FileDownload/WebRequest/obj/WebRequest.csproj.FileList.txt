@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\WebRequest.exe
+bin\Debug\WebRequest.pdb
+obj\Debug\WebRequest.exe
+obj\Debug\WebRequest.pdb
+bin\Release\WebRequest.exe
+bin\Release\WebRequest.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\WebRequest.exe
+obj\Release\WebRequest.pdb

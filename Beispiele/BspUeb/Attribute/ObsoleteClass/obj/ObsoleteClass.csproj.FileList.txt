@@ -1,0 +1,8 @@
+bin\Debug\ObsoleteClass.exe
+bin\Debug\ObsoleteClass.pdb
+obj\Debug\ObsoleteClass.exe
+obj\Debug\ObsoleteClass.pdb
+bin\Release\ObsoleteClass.exe
+bin\Release\ObsoleteClass.pdb
+obj\Release\ObsoleteClass.exe
+obj\Release\ObsoleteClass.pdb

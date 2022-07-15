@@ -1,0 +1,5 @@
+obj\Debug\FontDialog.exe
+obj\Debug\FontDialog.pdb
+bin\Debug\FontDialog.exe
+bin\Debug\FontDialog.pdb
+obj\Debug\ResolveAssemblyReference.cache

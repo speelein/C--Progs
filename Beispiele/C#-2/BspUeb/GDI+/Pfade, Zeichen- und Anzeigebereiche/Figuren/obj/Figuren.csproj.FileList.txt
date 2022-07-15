@@ -1,0 +1,5 @@
+bin\Debug\Figuren.exe
+bin\Debug\Figuren.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Figuren.exe
+obj\Debug\Figuren.pdb

@@ -1,0 +1,8 @@
+bin\Release\BruchAddition.exe
+bin\Release\BruchAddition.pdb
+obj\Release\BruchAddition.exe
+obj\Release\BruchAddition.pdb
+bin\Debug\BruchAddition.exe
+bin\Debug\BruchAddition.pdb
+obj\Debug\BruchAddition.exe
+obj\Debug\BruchAddition.pdb

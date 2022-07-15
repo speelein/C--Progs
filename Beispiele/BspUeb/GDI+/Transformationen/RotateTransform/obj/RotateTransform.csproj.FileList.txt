@@ -1,0 +1,5 @@
+obj\Debug\RotateTransform.exe
+obj\Debug\RotateTransform.pdb
+bin\Debug\RotateTransform.exe
+bin\Debug\RotateTransform.pdb
+obj\Debug\ResolveAssemblyReference.cache

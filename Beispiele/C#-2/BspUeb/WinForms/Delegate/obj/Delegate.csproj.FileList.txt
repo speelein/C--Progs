@@ -1,0 +1,8 @@
+bin\Debug\Delegate.exe
+bin\Debug\Delegate.pdb
+obj\Debug\Delegate.exe
+obj\Debug\Delegate.pdb
+bin\Release\Delegate.exe
+bin\Release\Delegate.pdb
+obj\Release\Delegate.exe
+obj\Release\Delegate.pdb

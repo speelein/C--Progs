@@ -1,0 +1,4 @@
+bin\Debug\AnsiTextLesen.exe
+bin\Debug\AnsiTextLesen.pdb
+obj\Debug\AnsiTextLesen.exe
+obj\Debug\AnsiTextLesen.pdb

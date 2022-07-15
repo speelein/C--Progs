@@ -1,0 +1,8 @@
+bin\Release\Abort.exe
+bin\Release\Abort.pdb
+obj\Release\Abort.exe
+obj\Release\Abort.pdb
+bin\Debug\Abort.exe
+bin\Debug\Abort.pdb
+obj\Debug\Abort.exe
+obj\Debug\Abort.pdb

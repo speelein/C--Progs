@@ -1,0 +1,5 @@
+U:\Eigene Dateien\C#\BspUeb\Multithreading\Timer\WPF-Timer\bin\Debug\WPFTimer.exe
+U:\Eigene Dateien\C#\BspUeb\Multithreading\Timer\WPF-Timer\bin\Debug\WPFTimer.pdb
+U:\Eigene Dateien\C#\BspUeb\Multithreading\Timer\WPF-Timer\obj\x86\Debug\WPF-Timer.csprojResolveAssemblyReference.cache
+U:\Eigene Dateien\C#\BspUeb\Multithreading\Timer\WPF-Timer\obj\x86\Debug\WPFTimer.exe
+U:\Eigene Dateien\C#\BspUeb\Multithreading\Timer\WPF-Timer\obj\x86\Debug\WPFTimer.pdb

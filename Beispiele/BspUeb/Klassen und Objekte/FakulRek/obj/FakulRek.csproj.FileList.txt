@@ -1,0 +1,8 @@
+bin\Release\FakulRek.exe
+bin\Release\FakulRek.pdb
+obj\Release\FakulRek.exe
+obj\Release\FakulRek.pdb
+bin\Debug\FakulRek.exe
+bin\Debug\FakulRek.pdb
+obj\Debug\FakulRek.exe
+obj\Debug\FakulRek.pdb

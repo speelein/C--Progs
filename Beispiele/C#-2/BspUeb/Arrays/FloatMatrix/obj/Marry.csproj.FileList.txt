@@ -1,0 +1,4 @@
+bin\Debug\Marry.exe
+bin\Debug\Marry.pdb
+obj\Debug\Marry.exe
+obj\Debug\Marry.pdb

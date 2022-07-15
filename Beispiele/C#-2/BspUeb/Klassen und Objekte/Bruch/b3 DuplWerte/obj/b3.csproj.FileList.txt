@@ -1,0 +1,10 @@
+bin\Debug\b3.exe
+bin\Debug\b3.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\b3.exe
+obj\Debug\b3.pdb
+bin\Release\b3.exe
+bin\Release\b3.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\b3.exe
+obj\Release\b3.pdb

@@ -1,0 +1,5 @@
+bin\Debug\InputBox.exe
+bin\Debug\InputBox.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\InputBox.exe
+obj\Debug\InputBox.pdb

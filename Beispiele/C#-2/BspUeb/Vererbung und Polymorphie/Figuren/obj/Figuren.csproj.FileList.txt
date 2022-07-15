@@ -1,0 +1,8 @@
+bin\Debug\Figuren.exe
+bin\Debug\Figuren.pdb
+obj\Debug\Figuren.exe
+obj\Debug\Figuren.pdb
+bin\Release\Figuren.exe
+bin\Release\Figuren.pdb
+obj\Release\Figuren.exe
+obj\Release\Figuren.pdb

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WebClient": {
+      "commandName": "Project",
+      "commandLineArgs": "https://www.uni-trier.de/fileadmin/urt/doku/csharp/v90/csharp90.pdf  csharp90.pdf"
+    }
+  }
+}

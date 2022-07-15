@@ -1,0 +1,8 @@
+bin\Release\Figuren - protected.exe
+bin\Release\Figuren - protected.pdb
+obj\Release\Figuren - protected.exe
+obj\Release\Figuren - protected.pdb
+bin\Debug\Figuren - protected.exe
+bin\Debug\Figuren - protected.pdb
+obj\Debug\Figuren - protected.exe
+obj\Debug\Figuren - protected.pdb

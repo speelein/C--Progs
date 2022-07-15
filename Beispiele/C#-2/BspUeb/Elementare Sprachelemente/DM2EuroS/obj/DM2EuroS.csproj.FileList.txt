@@ -1,0 +1,4 @@
+bin\Debug\DM2EuroS.exe
+bin\Debug\DM2EuroS.pdb
+obj\Debug\DM2EuroS.exe
+obj\Debug\DM2EuroS.pdb

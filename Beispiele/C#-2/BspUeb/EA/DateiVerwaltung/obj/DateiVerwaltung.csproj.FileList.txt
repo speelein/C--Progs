@@ -1,0 +1,4 @@
+bin\Debug\DateiVerwaltung.exe
+bin\Debug\DateiVerwaltung.pdb
+obj\Debug\DateiVerwaltung.exe
+obj\Debug\DateiVerwaltung.pdb

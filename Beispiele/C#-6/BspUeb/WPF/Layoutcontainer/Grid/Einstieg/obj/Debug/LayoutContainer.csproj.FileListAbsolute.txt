@@ -1,0 +1,12 @@
+c:\users\baltes\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\LayoutContainer.csprojResolveAssemblyReference.cache
+c:\users\baltes\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\MainWindow.baml
+c:\users\baltes\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\MainWindow.g.cs
+c:\users\baltes\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\App.g.cs
+c:\users\baltes\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\LayoutContainer_MarkupCompile.cache
+c:\users\baltes\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\LayoutContainer.g.resources
+c:\users\baltes\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\LayoutContainer.Properties.Resources.resources
+c:\users\baltes\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\LayoutContainer.csproj.GenerateResource.Cache
+c:\users\baltes\documents\visual studio 2015\Projects\WpfApplication2\bin\Debug\LayoutContainer.exe
+c:\users\baltes\documents\visual studio 2015\Projects\WpfApplication2\bin\Debug\LayoutContainer.pdb
+c:\users\baltes\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\LayoutContainer.exe
+c:\users\baltes\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\LayoutContainer.pdb

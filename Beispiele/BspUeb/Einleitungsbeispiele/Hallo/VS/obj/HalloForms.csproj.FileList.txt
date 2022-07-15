@@ -1,0 +1,8 @@
+bin\Debug\HalloForms.exe
+bin\Debug\HalloForms.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\HalloForms.Form1.resources
+obj\Debug\HalloForms.Properties.Resources.resources
+obj\Debug\HalloForms.csproj.GenerateResource.Cache
+obj\Debug\HalloForms.exe
+obj\Debug\HalloForms.pdb

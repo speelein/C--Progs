@@ -1,0 +1,5 @@
+bin\Debug\PenAlignment.exe
+bin\Debug\PenAlignment.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PenAlignment.exe
+obj\Debug\PenAlignment.pdb

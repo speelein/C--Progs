@@ -1,0 +1,16 @@
+﻿<Window x:Class="BruchKürzenGui.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BruchKürzenGui"
+        mc:Ignorable="d"
+        Title="Kürzen von Brüchen" Height="302" Width="349" Loaded="Window_Loaded">
+    <Grid RenderTransformOrigin="0.5,0.5" Margin="0,1,0,-1">
+        <TextBox x:Name="numTb" Height="23" Margin="108.5,42,114.5,0" TextWrapping="Wrap" VerticalAlignment="Top" TextAlignment="Center"/>
+        <TextBox x:Name="denomTb" HorizontalAlignment="Left" Height="23" Margin="108.5,131,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextAlignment="Center"/>
+        <Label x:Name="label" Content="---------------------------------------" HorizontalAlignment="Left" Margin="108.5,82,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.908,0.462" Width="118" HorizontalContentAlignment="Center"/>
+        <Button x:Name="reduceBtn" Content="Kürzen" HorizontalAlignment="Left" Margin="70,201,0,0" VerticalAlignment="Top" Width="75" IsDefault="True" Click="reduceBtn_Click"/>
+        <Button x:Name="closeBtn" Content="Beenden" Margin="190,201,78,0" VerticalAlignment="Top" Click="closeBtn_Click"/>
+    </Grid>
+</Window>

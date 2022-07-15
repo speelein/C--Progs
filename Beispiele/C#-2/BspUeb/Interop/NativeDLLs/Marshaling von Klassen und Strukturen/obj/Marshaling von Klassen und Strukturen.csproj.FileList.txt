@@ -1,0 +1,4 @@
+bin\Debug\Marshaling von Klassen und Strukturen.exe
+bin\Debug\Marshaling von Klassen und Strukturen.pdb
+obj\Debug\Marshaling von Klassen und Strukturen.exe
+obj\Debug\Marshaling von Klassen und Strukturen.pdb

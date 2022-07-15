@@ -1,0 +1,4 @@
+bin\Debug\Exp.exe
+bin\Debug\Exp.pdb
+obj\Debug\Exp.exe
+obj\Debug\Exp.pdb

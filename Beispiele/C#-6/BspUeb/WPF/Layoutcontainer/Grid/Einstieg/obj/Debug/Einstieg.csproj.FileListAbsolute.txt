@@ -1,0 +1,12 @@
+E:\Daten\Skripte u. Kurse\C#\Kurse\2016.10\BspUeb\WPF\Layoutcontainer\Einstieg\bin\Debug\LayoutContainer.exe
+E:\Daten\Skripte u. Kurse\C#\Kurse\2016.10\BspUeb\WPF\Layoutcontainer\Einstieg\bin\Debug\LayoutContainer.pdb
+E:\Daten\Skripte u. Kurse\C#\Kurse\2016.10\BspUeb\WPF\Layoutcontainer\Einstieg\obj\Debug\Einstieg.csprojResolveAssemblyReference.cache
+E:\Daten\Skripte u. Kurse\C#\Kurse\2016.10\BspUeb\WPF\Layoutcontainer\Einstieg\obj\Debug\MainWindow.baml
+E:\Daten\Skripte u. Kurse\C#\Kurse\2016.10\BspUeb\WPF\Layoutcontainer\Einstieg\obj\Debug\MainWindow.g.cs
+E:\Daten\Skripte u. Kurse\C#\Kurse\2016.10\BspUeb\WPF\Layoutcontainer\Einstieg\obj\Debug\App.g.cs
+E:\Daten\Skripte u. Kurse\C#\Kurse\2016.10\BspUeb\WPF\Layoutcontainer\Einstieg\obj\Debug\LayoutContainer_MarkupCompile.cache
+E:\Daten\Skripte u. Kurse\C#\Kurse\2016.10\BspUeb\WPF\Layoutcontainer\Einstieg\obj\Debug\LayoutContainer.g.resources
+E:\Daten\Skripte u. Kurse\C#\Kurse\2016.10\BspUeb\WPF\Layoutcontainer\Einstieg\obj\Debug\LayoutContainer.Properties.Resources.resources
+E:\Daten\Skripte u. Kurse\C#\Kurse\2016.10\BspUeb\WPF\Layoutcontainer\Einstieg\obj\Debug\Einstieg.csproj.GenerateResource.Cache
+E:\Daten\Skripte u. Kurse\C#\Kurse\2016.10\BspUeb\WPF\Layoutcontainer\Einstieg\obj\Debug\LayoutContainer.exe
+E:\Daten\Skripte u. Kurse\C#\Kurse\2016.10\BspUeb\WPF\Layoutcontainer\Einstieg\obj\Debug\LayoutContainer.pdb

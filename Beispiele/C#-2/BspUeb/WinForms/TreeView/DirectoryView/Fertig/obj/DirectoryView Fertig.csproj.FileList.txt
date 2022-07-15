@@ -1,0 +1,6 @@
+bin\Debug\Wolfram.NETLink.dll
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\DirectoryView.exe
+bin\Debug\DirectoryView.pdb
+obj\Debug\DirectoryView.exe
+obj\Debug\DirectoryView.pdb

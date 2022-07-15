@@ -1,0 +1,8 @@
+bin\Debug\AutoFlush.exe
+bin\Debug\AutoFlush.pdb
+obj\Debug\AutoFlush.exe
+obj\Debug\AutoFlush.pdb
+bin\Release\AutoFlush.exe
+bin\Release\AutoFlush.pdb
+obj\Release\AutoFlush.exe
+obj\Release\AutoFlush.pdb

@@ -1,0 +1,4 @@
+bin\Debug\StreamWrtRd.exe
+bin\Debug\StreamWrtRd.pdb
+obj\Debug\StreamWrtRd.exe
+obj\Debug\StreamWrtRd.pdb

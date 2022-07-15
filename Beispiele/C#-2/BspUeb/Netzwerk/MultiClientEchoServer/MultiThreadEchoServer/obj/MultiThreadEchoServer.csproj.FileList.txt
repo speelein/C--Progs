@@ -1,0 +1,5 @@
+obj\Debug\MultiClientEchoServer.exe
+obj\Debug\MultiClientEchoServer.pdb
+bin\Debug\MultiClientEchoServer.exe
+bin\Debug\MultiClientEchoServer.pdb
+obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,19 @@
+﻿<Window x:Class="Routingereignisse.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Routingereignisse" Height="350" Width="525"
+        PreviewMouseDown="HandlePreviewMouseDown" MouseDown="HandleMouseDown" ButtonBase.Click="HandleClick">
+    <Grid PreviewMouseDown="HandlePreviewMouseDown" MouseDown="HandleMouseDown" Button.Click="HandleClick">
+        <Button Name="button" Margin="0,15"
+                PreviewMouseDown="HandlePreviewMouseDown" MouseDown="HandleMouseDown" Click="HandleClick" Height="36" VerticalAlignment="Top" HorizontalAlignment="Center" Width="71">
+            <StackPanel Name="stackPanel" Orientation="Horizontal"
+                        PreviewMouseDown="HandlePreviewMouseDown" MouseDown="HandleMouseDown">
+                <Image  Name="image" Width="20" Margin="5" Source="vs2013.png" VerticalAlignment="Center"
+                        PreviewMouseDown="HandlePreviewMouseDown" MouseDown="HandleMouseDown"/>
+                <TextBlock Name="textBlock" HorizontalAlignment="Right" Margin="5" Text="Click" VerticalAlignment="Center"
+                           PreviewMouseDown="HandlePreviewMouseDown" MouseDown="HandleMouseDown"/>
+            </StackPanel>
+        </Button>
+        <ListBox Name="listBox" Margin="12,68,12,12" />
+    </Grid>
+</Window>

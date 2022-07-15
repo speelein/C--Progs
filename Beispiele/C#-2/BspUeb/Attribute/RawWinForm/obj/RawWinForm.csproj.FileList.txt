@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RawWinForm.Form1.resources
+obj\Debug\RawWinForm.Properties.Resources.resources
+obj\Debug\RawWinForm.csproj.GenerateResource.Cache
+bin\Debug\RawWinForm.exe
+bin\Debug\RawWinForm.pdb
+obj\Debug\RawWinForm.exe
+obj\Debug\RawWinForm.pdb

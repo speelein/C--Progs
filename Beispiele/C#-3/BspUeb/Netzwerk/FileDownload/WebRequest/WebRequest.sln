@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRequest", "WebRequest.csproj", "{8E6D8CAD-6F36-4850-90F8-6298F9B779BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E6D8CAD-6F36-4850-90F8-6298F9B779BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E6D8CAD-6F36-4850-90F8-6298F9B779BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E6D8CAD-6F36-4850-90F8-6298F9B779BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E6D8CAD-6F36-4850-90F8-6298F9B779BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+bin\Debug\Hierarchisch.exe
+bin\Debug\Hierarchisch.pdb
+bin\Debug\Wolfram.NETLink.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Hierarchisch.exe
+obj\Debug\Hierarchisch.pdb

@@ -1,0 +1,8 @@
+bin\Debug\PerZuf.exe
+bin\Debug\PerZuf.pdb
+obj\Debug\PerZuf.exe
+obj\Debug\PerZuf.pdb
+bin\Release\PerZuf.exe
+bin\Release\PerZuf.pdb
+obj\Release\PerZuf.exe
+obj\Release\PerZuf.pdb

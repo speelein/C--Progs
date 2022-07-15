@@ -1,0 +1,5 @@
+bin\Debug\MeasureString.exe
+bin\Debug\MeasureString.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MeasureString.exe
+obj\Debug\MeasureString.pdb

@@ -1,0 +1,4 @@
+bin\Debug\Marshaling einfacher Typen.exe
+bin\Debug\Marshaling einfacher Typen.pdb
+obj\Debug\Marshaling einfacher Typen.exe
+obj\Debug\Marshaling einfacher Typen.pdb

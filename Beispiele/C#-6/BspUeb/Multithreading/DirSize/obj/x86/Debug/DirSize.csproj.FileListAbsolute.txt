@@ -1,0 +1,39 @@
+C:\Users\baltes\AppData\Local\Temporary Projects\DirSize\bin\Debug\DirSize.exe
+C:\Users\baltes\AppData\Local\Temporary Projects\DirSize\bin\Debug\DirSize.pdb
+C:\Users\baltes\AppData\Local\Temporary Projects\DirSize\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\baltes\AppData\Local\Temporary Projects\DirSize\obj\x86\Debug\MainWindow.baml
+C:\Users\baltes\AppData\Local\Temporary Projects\DirSize\obj\x86\Debug\MainWindow.g.cs
+C:\Users\baltes\AppData\Local\Temporary Projects\DirSize\obj\x86\Debug\App.g.cs
+C:\Users\baltes\AppData\Local\Temporary Projects\DirSize\obj\x86\Debug\DirSize_MarkupCompile.cache
+C:\Users\baltes\AppData\Local\Temporary Projects\DirSize\obj\x86\Debug\DirSize.g.resources
+C:\Users\baltes\AppData\Local\Temporary Projects\DirSize\obj\x86\Debug\DirSize.Properties.Resources.resources
+C:\Users\baltes\AppData\Local\Temporary Projects\DirSize\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\baltes\AppData\Local\Temporary Projects\DirSize\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\baltes\AppData\Local\Temporary Projects\DirSize\obj\x86\Debug\DirSize.exe
+C:\Users\baltes\AppData\Local\Temporary Projects\DirSize\obj\x86\Debug\DirSize.pdb
+E:\Daten\Skripte u. Kurse\C#\Kurse\2010.10\BspUeb\Multithreading\DirSize\obj\x86\Debug\DirSize.exe
+E:\Daten\Skripte u. Kurse\C#\Kurse\2010.10\BspUeb\Multithreading\DirSize\obj\x86\Debug\DirSize.pdb
+E:\Daten\Skripte u. Kurse\C#\Kurse\2010.10\BspUeb\Multithreading\DirSize\bin\Debug\DirSize.exe
+E:\Daten\Skripte u. Kurse\C#\Kurse\2010.10\BspUeb\Multithreading\DirSize\bin\Debug\DirSize.pdb
+E:\Daten\Skripte u. Kurse\C#\Kurse\2010.10\BspUeb\Multithreading\DirSize\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Daten\Skripte u. Kurse\C#\Kurse\2010.10\BspUeb\Multithreading\DirSize\obj\x86\Debug\MainWindow.baml
+E:\Daten\Skripte u. Kurse\C#\Kurse\2010.10\BspUeb\Multithreading\DirSize\obj\x86\Debug\MainWindow.g.cs
+E:\Daten\Skripte u. Kurse\C#\Kurse\2010.10\BspUeb\Multithreading\DirSize\obj\x86\Debug\App.g.cs
+E:\Daten\Skripte u. Kurse\C#\Kurse\2010.10\BspUeb\Multithreading\DirSize\obj\x86\Debug\DirSize_MarkupCompile.cache
+E:\Daten\Skripte u. Kurse\C#\Kurse\2010.10\BspUeb\Multithreading\DirSize\obj\x86\Debug\DirSize.g.resources
+E:\Daten\Skripte u. Kurse\C#\Kurse\2010.10\BspUeb\Multithreading\DirSize\obj\x86\Debug\DirSize.Properties.Resources.resources
+E:\Daten\Skripte u. Kurse\C#\Kurse\2010.10\BspUeb\Multithreading\DirSize\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Daten\Skripte u. Kurse\C#\Kurse\2010.10\BspUeb\Multithreading\DirSize\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\Eigene Dateien\C#\BspUeb\Multithreading\DirSize\obj\x86\Debug\DirSize.exe
+U:\Eigene Dateien\C#\BspUeb\Multithreading\DirSize\obj\x86\Debug\DirSize.pdb
+U:\Eigene Dateien\C#\BspUeb\Multithreading\DirSize\bin\Debug\DirSize.exe
+U:\Eigene Dateien\C#\BspUeb\Multithreading\DirSize\bin\Debug\DirSize.pdb
+U:\Eigene Dateien\C#\BspUeb\Multithreading\DirSize\obj\x86\Debug\DirSize.csprojResolveAssemblyReference.cache
+U:\Eigene Dateien\C#\BspUeb\Multithreading\DirSize\obj\x86\Debug\MainWindow.baml
+U:\Eigene Dateien\C#\BspUeb\Multithreading\DirSize\obj\x86\Debug\MainWindow.g.cs
+U:\Eigene Dateien\C#\BspUeb\Multithreading\DirSize\obj\x86\Debug\App.g.cs
+U:\Eigene Dateien\C#\BspUeb\Multithreading\DirSize\obj\x86\Debug\DirSize_MarkupCompile.cache
+U:\Eigene Dateien\C#\BspUeb\Multithreading\DirSize\obj\x86\Debug\DirSize.g.resources
+U:\Eigene Dateien\C#\BspUeb\Multithreading\DirSize\obj\x86\Debug\DirSize.Properties.Resources.resources
+U:\Eigene Dateien\C#\BspUeb\Multithreading\DirSize\obj\x86\Debug\DirSize.csproj.GenerateResource.Cache
+U:\Eigene Dateien\C#\BspUeb\Multithreading\DirSize\bin\Debug\DirSize.exe.config

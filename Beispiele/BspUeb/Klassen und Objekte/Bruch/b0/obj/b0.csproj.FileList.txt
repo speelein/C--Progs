@@ -1,0 +1,8 @@
+bin\Debug\b0.exe
+bin\Debug\b0.pdb
+obj\Debug\b0.exe
+obj\Debug\b0.pdb
+bin\Release\b0.exe
+bin\Release\b0.pdb
+obj\Release\b0.exe
+obj\Release\b0.pdb

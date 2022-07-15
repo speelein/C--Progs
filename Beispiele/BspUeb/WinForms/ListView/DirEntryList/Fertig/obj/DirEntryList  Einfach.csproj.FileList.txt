@@ -1,0 +1,2 @@
+obj\Debug\DirEntryList.exe
+obj\Debug\DirEntryList.pdb

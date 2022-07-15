@@ -1,0 +1,5 @@
+bin\Debug\AutoScale.exe
+bin\Debug\AutoScale.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AutoScale.exe
+obj\Debug\AutoScale.pdb

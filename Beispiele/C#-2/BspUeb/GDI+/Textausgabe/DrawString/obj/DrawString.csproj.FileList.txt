@@ -1,0 +1,5 @@
+obj\Debug\DrawString.exe
+obj\Debug\DrawString.pdb
+bin\Debug\DrawString.exe
+bin\Debug\DrawString.pdb
+obj\Debug\ResolveAssemblyReference.cache

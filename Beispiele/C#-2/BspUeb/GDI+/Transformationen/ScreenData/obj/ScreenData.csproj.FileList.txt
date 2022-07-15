@@ -1,0 +1,5 @@
+bin\Debug\DPI.exe
+bin\Debug\DPI.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DPI.exe
+obj\Debug\DPI.pdb

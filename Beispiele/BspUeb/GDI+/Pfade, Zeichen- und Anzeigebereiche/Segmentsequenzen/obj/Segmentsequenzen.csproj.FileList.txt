@@ -1,0 +1,2 @@
+obj\Debug\Segmentsequenzen.exe
+obj\Debug\Segmentsequenzen.pdb

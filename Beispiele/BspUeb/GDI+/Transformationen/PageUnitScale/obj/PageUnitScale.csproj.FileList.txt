@@ -1,0 +1,5 @@
+obj\Debug\PageUnitScale.exe
+obj\Debug\PageUnitScale.pdb
+bin\Debug\PageUnitScale.exe
+bin\Debug\PageUnitScale.pdb
+obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+bin\Debug\Sequenzen.exe
+bin\Debug\Sequenzen.pdb
+obj\Debug\Sequenzen.exe
+obj\Debug\Sequenzen.pdb
+bin\Release\Sequenzen.exe
+bin\Release\Sequenzen.pdb
+obj\Release\Sequenzen.exe
+obj\Release\Sequenzen.pdb

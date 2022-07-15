@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\DirSize.exe
+bin\Debug\DirSize.pdb
+obj\Debug\DirSize.exe
+obj\Debug\DirSize.pdb
+bin\Release\DirSize.exe
+bin\Release\DirSize.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\DirSize.exe
+obj\Release\DirSize.pdb

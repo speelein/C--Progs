@@ -1,0 +1,10 @@
+bin\Debug\GET.exe
+bin\Debug\GET.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GET.exe
+obj\Debug\GET.pdb
+bin\Release\GET.exe
+bin\Release\GET.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\GET.exe
+obj\Release\GET.pdb

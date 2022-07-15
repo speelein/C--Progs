@@ -1,0 +1,5 @@
+bin\Debug\PaintEventHandler.exe
+bin\Debug\PaintEventHandler.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PaintEventHandler.exe
+obj\Debug\PaintEventHandler.pdb

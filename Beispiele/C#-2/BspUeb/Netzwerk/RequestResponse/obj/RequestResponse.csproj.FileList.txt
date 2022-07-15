@@ -1,0 +1,5 @@
+bin\Debug\RequestResponse.exe
+bin\Debug\RequestResponse.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RequestResponse.exe
+obj\Debug\RequestResponse.pdb

@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MyBrowser.Form1.resources
+obj\Debug\MyBrowser.Properties.Resources.resources
+obj\Debug\MyBrowser.csproj.GenerateResource.Cache
+bin\Debug\MyBrowser.exe
+bin\Debug\MyBrowser.pdb
+obj\Debug\MyBrowser.exe
+obj\Debug\MyBrowser.pdb

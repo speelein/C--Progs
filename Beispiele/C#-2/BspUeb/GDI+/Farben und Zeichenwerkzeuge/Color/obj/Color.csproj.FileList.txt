@@ -1,0 +1,5 @@
+obj\Debug\Color.exe
+obj\Debug\Color.pdb
+bin\Debug\Color.exe
+bin\Debug\Color.pdb
+obj\Debug\ResolveAssemblyReference.cache

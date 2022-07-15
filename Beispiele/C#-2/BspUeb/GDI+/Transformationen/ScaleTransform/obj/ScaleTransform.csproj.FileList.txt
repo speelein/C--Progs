@@ -1,0 +1,2 @@
+obj\Debug\ScaleTransform.exe
+obj\Debug\ScaleTransform.pdb

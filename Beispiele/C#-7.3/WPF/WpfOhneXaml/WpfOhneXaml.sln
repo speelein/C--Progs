@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfOhneXaml", "WpfOhneXaml.csproj", "{B93C0467-D562-4AF0-8EE3-72A01167DD9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B93C0467-D562-4AF0-8EE3-72A01167DD9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B93C0467-D562-4AF0-8EE3-72A01167DD9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B93C0467-D562-4AF0-8EE3-72A01167DD9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B93C0467-D562-4AF0-8EE3-72A01167DD9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2EDACEF-2F9A-4E16-9E6E-1185BD01FD57}
+	EndGlobalSection
+EndGlobal

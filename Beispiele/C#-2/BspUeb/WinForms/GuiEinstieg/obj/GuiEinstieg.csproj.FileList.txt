@@ -1,0 +1,10 @@
+bin\Release\GuiEinstieg.exe
+bin\Release\GuiEinstieg.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\GuiEinstieg.exe
+obj\Release\GuiEinstieg.pdb
+bin\Debug\GuiEinstieg.exe
+bin\Debug\GuiEinstieg.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GuiEinstieg.exe
+obj\Debug\GuiEinstieg.pdb

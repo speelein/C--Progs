@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Explorer Light", "Explorer Light.csproj", "{1A53AFAF-7321-40D1-AE63-CDA7CCFD210F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A53AFAF-7321-40D1-AE63-CDA7CCFD210F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A53AFAF-7321-40D1-AE63-CDA7CCFD210F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A53AFAF-7321-40D1-AE63-CDA7CCFD210F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A53AFAF-7321-40D1-AE63-CDA7CCFD210F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

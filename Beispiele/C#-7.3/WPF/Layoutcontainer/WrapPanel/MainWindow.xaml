@@ -1,0 +1,11 @@
+﻿<Window x:Class="WrapPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WrapPanel" SizeToContent="Height" Width="350">
+    <WrapPanel Orientation="Horizontal">
+        <Button Width="100" Height="50">Knopf 1</Button>
+        <Button Width="100" Height="50">Knopf 2</Button>
+        <Button Width="100" Height="50">Knopf 3</Button>
+        <Button Width="100" Height="50">K K K M</Button>
+    </WrapPanel>
+</Window>

@@ -1,0 +1,10 @@
+bin\Debug\TcpClient.exe
+bin\Debug\TcpClient.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TcpClient.exe
+obj\Debug\TcpClient.pdb
+bin\Release\TcpClient.exe
+bin\Release\TcpClient.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\TcpClient.exe
+obj\Release\TcpClient.pdb

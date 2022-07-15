@@ -1,0 +1,5 @@
+obj\Debug\MeasureCharacterRanges.exe
+obj\Debug\MeasureCharacterRanges.pdb
+bin\Debug\MeasureCharacterRanges.exe
+bin\Debug\MeasureCharacterRanges.pdb
+obj\Debug\ResolveAssemblyReference.cache

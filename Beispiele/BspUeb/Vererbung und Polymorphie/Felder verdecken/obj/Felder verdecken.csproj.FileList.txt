@@ -1,0 +1,8 @@
+bin\Debug\Felder verdecken.exe
+bin\Debug\Felder verdecken.pdb
+obj\Debug\Felder verdecken.exe
+obj\Debug\Felder verdecken.pdb
+bin\Release\Felder verdecken.exe
+bin\Release\Felder verdecken.pdb
+obj\Release\Felder verdecken.exe
+obj\Release\Felder verdecken.pdb

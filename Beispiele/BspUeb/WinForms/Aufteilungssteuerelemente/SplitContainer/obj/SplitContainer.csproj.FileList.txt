@@ -1,0 +1,5 @@
+bin\Debug\SplitContainer.exe
+bin\Debug\SplitContainer.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SplitContainer.exe
+obj\Debug\SplitContainer.pdb

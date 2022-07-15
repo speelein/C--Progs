@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Label.exe
+bin\Debug\Label.pdb
+obj\Debug\Label.exe
+obj\Debug\Label.pdb

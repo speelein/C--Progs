@@ -1,0 +1,6 @@
+bin\Debug\Stapelung.exe
+bin\Debug\Stapelung.pdb
+bin\Debug\Wolfram.NETLink.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Stapelung.exe
+obj\Debug\Stapelung.pdb

@@ -1,0 +1,14 @@
+U:\Eigene Dateien\C#\BspUeb\WPF\Routingereignisse\Beobachtungsstudie\obj\Debug\MainWindow.baml
+U:\Eigene Dateien\C#\BspUeb\WPF\Routingereignisse\Beobachtungsstudie\obj\Debug\MainWindow.g.cs
+U:\Eigene Dateien\C#\BspUeb\WPF\Routingereignisse\Beobachtungsstudie\obj\Debug\App.g.cs
+U:\Eigene Dateien\C#\BspUeb\WPF\Routingereignisse\Beobachtungsstudie\obj\Debug\Routingereignisse.Properties.Resources.resources
+U:\Eigene Dateien\C#\BspUeb\WPF\Routingereignisse\Beobachtungsstudie\obj\Debug\Routingereignisse.csproj.GenerateResource.Cache
+U:\Eigene Dateien\C#\BspUeb\WPF\Routingereignisse\Beobachtungsstudie\bin\Debug\Routingereignisse.exe
+U:\Eigene Dateien\C#\BspUeb\WPF\Routingereignisse\Beobachtungsstudie\bin\Debug\Routingereignisse.pdb
+U:\Eigene Dateien\C#\BspUeb\WPF\Routingereignisse\Beobachtungsstudie\obj\Debug\Routingereignisse_MarkupCompile.cache
+U:\Eigene Dateien\C#\BspUeb\WPF\Routingereignisse\Beobachtungsstudie\obj\Debug\Routingereignisse.g.resources
+U:\Eigene Dateien\C#\BspUeb\WPF\Routingereignisse\Beobachtungsstudie\obj\Debug\Routingereignisse.exe
+U:\Eigene Dateien\C#\BspUeb\WPF\Routingereignisse\Beobachtungsstudie\obj\Debug\Routingereignisse.pdb
+U:\Eigene Dateien\C#\BspUeb\WPF\Routingereignisse\Beobachtungsstudie\obj\Debug\Routingereignisse.csprojResolveAssemblyReference.cache
+E:\Daten\Skripte u. Kurse\C#\Kurse\2016.10\BspUeb\WPF\Routingereignisse\Beobachtungsstudie\obj\Debug\Routingereignisse.exe
+E:\Daten\Skripte u. Kurse\C#\Kurse\2016.10\BspUeb\WPF\Routingereignisse\Beobachtungsstudie\obj\Debug\Routingereignisse.pdb

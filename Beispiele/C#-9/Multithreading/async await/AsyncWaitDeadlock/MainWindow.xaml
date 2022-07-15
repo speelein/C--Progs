@@ -1,0 +1,17 @@
+﻿<Window x:Class="AsyncWaitDeadlock.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AsyncWaitDeadlock"
+        mc:Ignorable="d"
+        Title="Async-Wait - Deadlock" Height="150" Width="500">
+    <Grid>
+        <Button x:Name="button" Content="Verzögerte Ausgabe" HorizontalAlignment="Center" Margin="0,10,-1,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <Border Margin="10,40.96,10,10" BorderBrush="#FFABADB3" BorderThickness="1">
+            <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" >
+                <TextBlock x:Name="text" TextWrapping="Wrap" />
+            </ScrollViewer>
+        </Border>
+    </Grid>
+</Window>

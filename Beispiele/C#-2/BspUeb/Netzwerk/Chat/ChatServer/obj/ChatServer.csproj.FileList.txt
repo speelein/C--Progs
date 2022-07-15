@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ChatServer.Properties.Resources.resources
+obj\Debug\ChatServer.csproj.GenerateResource.Cache
+obj\Debug\ChatServerNameSpace.ChatServer.resources
+bin\Debug\ChatServer.exe
+bin\Debug\ChatServer.pdb
+obj\Debug\ChatServer.exe
+obj\Debug\ChatServer.pdb
+bin\Release\ChatServer.exe
+bin\Release\ChatServer.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ChatServerNameSpace.ChatServer.resources
+obj\Release\ChatServer.Properties.Resources.resources
+obj\Release\ChatServer.csproj.GenerateResource.Cache
+obj\Release\ChatServer.exe
+obj\Release\ChatServer.pdb

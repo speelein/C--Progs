@@ -1,0 +1,8 @@
+bin\Debug\null.exe
+bin\Debug\null.pdb
+obj\Debug\null.exe
+obj\Debug\null.pdb
+bin\Release\null.exe
+bin\Release\null.pdb
+obj\Release\null.exe
+obj\Release\null.pdb

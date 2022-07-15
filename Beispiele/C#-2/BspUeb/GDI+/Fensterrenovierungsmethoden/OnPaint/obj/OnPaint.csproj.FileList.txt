@@ -1,0 +1,5 @@
+bin\Debug\OnPaint.exe
+bin\Debug\OnPaint.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\OnPaint.exe
+obj\Debug\OnPaint.pdb

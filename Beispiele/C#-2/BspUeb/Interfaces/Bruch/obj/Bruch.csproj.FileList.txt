@@ -1,0 +1,8 @@
+bin\Debug\Bruch.exe
+bin\Debug\Bruch.pdb
+obj\Debug\Bruch.exe
+obj\Debug\Bruch.pdb
+bin\Release\Bruch.exe
+bin\Release\Bruch.pdb
+obj\Release\Bruch.exe
+obj\Release\Bruch.pdb

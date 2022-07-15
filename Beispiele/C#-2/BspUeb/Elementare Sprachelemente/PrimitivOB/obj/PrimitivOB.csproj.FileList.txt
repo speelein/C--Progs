@@ -1,0 +1,4 @@
+bin\Debug\PrimitivOB.exe
+bin\Debug\PrimitivOB.pdb
+obj\Debug\PrimitivOB.exe
+obj\Debug\PrimitivOB.pdb

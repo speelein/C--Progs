@@ -1,0 +1,16 @@
+﻿Microsoft Visual Studio Solution File, Format Version 9.00
+# SharpDevelop 2.0.0.1710
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputBox", "InputBox.csproj", "{FFE2A2EB-80D1-4F9E-A7F7-0C83C4CA4686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFE2A2EB-80D1-4F9E-A7F7-0C83C4CA4686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE2A2EB-80D1-4F9E-A7F7-0C83C4CA4686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE2A2EB-80D1-4F9E-A7F7-0C83C4CA4686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFE2A2EB-80D1-4F9E-A7F7-0C83C4CA4686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+bin\Debug\Figuren - Verdecken.exe
+bin\Debug\Figuren - Verdecken.pdb
+obj\Debug\Figuren - Verdecken.exe
+obj\Debug\Figuren - Verdecken.pdb

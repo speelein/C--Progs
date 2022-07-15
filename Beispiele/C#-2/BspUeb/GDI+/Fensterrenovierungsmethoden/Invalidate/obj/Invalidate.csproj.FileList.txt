@@ -1,0 +1,5 @@
+bin\Debug\Invalidate.exe
+bin\Debug\Invalidate.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Invalidate.exe
+obj\Debug\Invalidate.pdb

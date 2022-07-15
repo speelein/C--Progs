@@ -1,0 +1,5 @@
+bin\Debug\ScrollBar.exe
+bin\Debug\ScrollBar.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ScrollBar.exe
+obj\Debug\ScrollBar.pdb

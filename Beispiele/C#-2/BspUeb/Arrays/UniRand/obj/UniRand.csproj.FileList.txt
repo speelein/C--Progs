@@ -1,0 +1,4 @@
+bin\Debug\UniRand.exe
+bin\Debug\UniRand.pdb
+obj\Debug\UniRand.exe
+obj\Debug\UniRand.pdb

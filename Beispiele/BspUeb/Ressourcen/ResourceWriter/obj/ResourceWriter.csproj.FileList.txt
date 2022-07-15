@@ -1,0 +1,5 @@
+bin\Debug\ResXResourceWriter.exe
+bin\Debug\ResXResourceWriter.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ResXResourceWriter.exe
+obj\Debug\ResXResourceWriter.pdb

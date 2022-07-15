@@ -1,0 +1,4 @@
+bin\Debug\StringBuilder.exe
+bin\Debug\StringBuilder.pdb
+obj\Debug\StringBuilder.exe
+obj\Debug\StringBuilder.pdb

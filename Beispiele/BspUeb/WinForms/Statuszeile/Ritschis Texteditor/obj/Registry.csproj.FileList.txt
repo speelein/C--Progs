@@ -1,0 +1,10 @@
+bin\Debug\RitchisTexteditor.exe
+bin\Debug\RitchisTexteditor.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RitchisTexteditor.exe
+obj\Debug\RitchisTexteditor.pdb
+bin\Release\RitchisTexteditor.exe
+bin\Release\RitchisTexteditor.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\RitchisTexteditor.exe
+obj\Release\RitchisTexteditor.pdb

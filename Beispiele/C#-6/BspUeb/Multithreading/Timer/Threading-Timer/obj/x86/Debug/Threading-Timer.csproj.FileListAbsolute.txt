@@ -1,0 +1,6 @@
+U:\Eigene Dateien\C#\BspUeb\Multithreading\Timer\Threading-Timer\bin\Debug\ThreadingTimer.exe
+U:\Eigene Dateien\C#\BspUeb\Multithreading\Timer\Threading-Timer\bin\Debug\ThreadingTimer.pdb
+U:\Eigene Dateien\C#\BspUeb\Multithreading\Timer\Threading-Timer\obj\x86\Debug\Threading-Timer.csprojResolveAssemblyReference.cache
+U:\Eigene Dateien\C#\BspUeb\Multithreading\Timer\Threading-Timer\obj\x86\Debug\ThreadingTimer.exe
+U:\Eigene Dateien\C#\BspUeb\Multithreading\Timer\Threading-Timer\obj\x86\Debug\ThreadingTimer.pdb
+U:\Eigene Dateien\C#\BspUeb\Multithreading\Timer\Threading-Timer\bin\Debug\ThreadingTimer.exe.config

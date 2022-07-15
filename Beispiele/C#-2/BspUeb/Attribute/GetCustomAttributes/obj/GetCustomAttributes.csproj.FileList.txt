@@ -1,0 +1,8 @@
+bin\Debug\GetCustomAttributes.exe
+bin\Debug\GetCustomAttributes.pdb
+obj\Debug\GetCustomAttributes.exe
+obj\Debug\GetCustomAttributes.pdb
+bin\Release\GetCustomAttributes.exe
+bin\Release\GetCustomAttributes.pdb
+obj\Release\GetCustomAttributes.exe
+obj\Release\GetCustomAttributes.pdb

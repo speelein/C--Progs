@@ -1,0 +1,10 @@
+bin\Debug\b8.exe
+bin\Debug\b8.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\b8.exe
+obj\Debug\b8.pdb
+bin\Release\b8.exe
+bin\Release\b8.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\b8.exe
+obj\Release\b8.pdb

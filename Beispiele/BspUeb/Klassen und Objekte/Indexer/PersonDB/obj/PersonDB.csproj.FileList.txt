@@ -1,0 +1,4 @@
+bin\Debug\PersonDB.exe
+bin\Debug\PersonDB.pdb
+obj\Debug\PersonDB.exe
+obj\Debug\PersonDB.pdb

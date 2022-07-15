@@ -1,0 +1,28 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleCs", "SampleCs.csproj", "{98FDC043-69C4-4B89-AB2A-ED98288A44E6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{89628C9E-F0A3-4223-822D-6AD69FB605FF} = {89628C9E-F0A3-4223-822D-6AD69FB605FF}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTBExCs", "..\RTBExCs\RTBExCs.csproj", "{89628C9E-F0A3-4223-822D-6AD69FB605FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98FDC043-69C4-4B89-AB2A-ED98288A44E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98FDC043-69C4-4B89-AB2A-ED98288A44E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98FDC043-69C4-4B89-AB2A-ED98288A44E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98FDC043-69C4-4B89-AB2A-ED98288A44E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89628C9E-F0A3-4223-822D-6AD69FB605FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89628C9E-F0A3-4223-822D-6AD69FB605FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89628C9E-F0A3-4223-822D-6AD69FB605FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89628C9E-F0A3-4223-822D-6AD69FB605FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

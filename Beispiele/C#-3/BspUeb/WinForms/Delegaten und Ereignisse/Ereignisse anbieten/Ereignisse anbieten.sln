@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ereignisse anbieten", "Ereignisse anbieten.csproj", "{973CE048-DA48-4461-BE8F-A1EE27BF6FED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{973CE048-DA48-4461-BE8F-A1EE27BF6FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{973CE048-DA48-4461-BE8F-A1EE27BF6FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{973CE048-DA48-4461-BE8F-A1EE27BF6FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{973CE048-DA48-4461-BE8F-A1EE27BF6FED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

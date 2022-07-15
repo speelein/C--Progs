@@ -1,0 +1,5 @@
+obj\Debug\Bebildert.exe
+obj\Debug\Bebildert.pdb
+bin\Debug\Bebildert.exe
+bin\Debug\Bebildert.pdb
+obj\Debug\ResolveAssemblyReference.cache

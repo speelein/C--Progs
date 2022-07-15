@@ -1,0 +1,8 @@
+bin\Debug\Fakul.exe
+bin\Debug\Fakul.pdb
+obj\Debug\Fakul.exe
+obj\Debug\Fakul.pdb
+bin\Release\Fakul.exe
+bin\Release\Fakul.pdb
+obj\Release\Fakul.exe
+obj\Release\Fakul.pdb

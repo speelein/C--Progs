@@ -1,0 +1,5 @@
+bin\Debug\Andocken.exe
+bin\Debug\Andocken.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Andocken.exe
+obj\Debug\Andocken.pdb

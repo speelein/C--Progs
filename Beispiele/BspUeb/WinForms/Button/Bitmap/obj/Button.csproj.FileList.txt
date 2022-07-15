@@ -1,0 +1,5 @@
+bin\Debug\Button.exe
+bin\Debug\Button.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Button.exe
+obj\Debug\Button.pdb

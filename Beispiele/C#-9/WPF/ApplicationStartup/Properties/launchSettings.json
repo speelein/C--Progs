@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ApplicationStartup": {
+      "commandName": "Project",
+      "commandLineArgs": "Programmargumente von Application Startup"
+    }
+  }
+}

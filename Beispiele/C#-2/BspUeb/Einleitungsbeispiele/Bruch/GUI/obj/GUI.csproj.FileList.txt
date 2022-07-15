@@ -1,0 +1,8 @@
+obj\Debug\BruchKürzenGui.exe
+obj\Debug\BruchKürzenGui.pdb
+bin\Debug\BruchKürzenGui.exe
+bin\Debug\BruchKürzenGui.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BruchKürzenGui.Form1.resources
+obj\Debug\BruchKürzenGui.Properties.Resources.resources
+obj\Debug\GUI.csproj.GenerateResource.Cache

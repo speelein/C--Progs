@@ -1,0 +1,5 @@
+bin\Debug\Primitiv.exe
+bin\Debug\Primitiv.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Primitiv.exe
+obj\Debug\Primitiv.pdb

@@ -1,0 +1,5 @@
+bin\Debug\FontMetrik.exe
+bin\Debug\FontMetrik.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FontMetrik.exe
+obj\Debug\FontMetrik.pdb

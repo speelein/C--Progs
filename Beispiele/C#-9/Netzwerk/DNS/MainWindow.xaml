@@ -1,0 +1,16 @@
+﻿<Window x:Class="DNS.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Title="DNS-Demo" Height="284" Width="525" ResizeMode="NoResize">
+    <Grid Margin="0,5,0,-5">
+        <Label Content="IP-Nummer" Height="28" HorizontalAlignment="Left" Margin="37,102,0,0" Name="label1" VerticalAlignment="Top" Width="86" />
+        <Label Content="IP-Name" Height="31" HorizontalAlignment="Left" Margin="37,37,0,0" Name="label2" VerticalAlignment="Top" Width="86" />
+        <TextBox Height="23" Margin="169,104,55,0" Name="tbNumber" VerticalAlignment="Top" />
+        <TextBox Height="23" Margin="169,41,55,0" Name="tbName" VerticalAlignment="Top" />
+        <Button Content="Name -&gt; Nummer" Height="42" HorizontalAlignment="Left" Margin="37,179,0,0" Name="cbToNumber" VerticalAlignment="Top" Width="172" Click="cbToNumber_Click" />
+        <Button Content="Nummer -&gt; Name" Height="43" Margin="0,178,55,0" Name="cbToName" VerticalAlignment="Top" HorizontalAlignment="Right" Width="172" Click="cbToName_Click" />
+    </Grid>
+</Window>

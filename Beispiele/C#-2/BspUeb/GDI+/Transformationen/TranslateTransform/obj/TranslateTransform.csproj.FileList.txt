@@ -1,0 +1,2 @@
+obj\Debug\TranslateTransform.exe
+obj\Debug\TranslateTransform.pdb

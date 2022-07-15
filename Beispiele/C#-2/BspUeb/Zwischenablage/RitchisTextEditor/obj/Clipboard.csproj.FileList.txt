@@ -1,0 +1,6 @@
+bin\Debug\Clipboard.exe
+bin\Debug\Clipboard.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Clipboard.exe
+obj\Debug\Clipboard.pdb
+obj\Release\ResolveAssemblyReference.cache

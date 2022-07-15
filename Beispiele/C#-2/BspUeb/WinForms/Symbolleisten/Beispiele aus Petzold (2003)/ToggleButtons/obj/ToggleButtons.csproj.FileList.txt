@@ -1,0 +1,5 @@
+bin\Debug\ToggleButtons.exe
+bin\Debug\ToggleButtons.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ToggleButtons.exe
+obj\Debug\ToggleButtons.pdb

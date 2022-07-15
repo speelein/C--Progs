@@ -1,0 +1,5 @@
+bin\Debug\FileSystemWatcher.exe
+bin\Debug\FileSystemWatcher.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FileSystemWatcher.exe
+obj\Debug\FileSystemWatcher.pdb

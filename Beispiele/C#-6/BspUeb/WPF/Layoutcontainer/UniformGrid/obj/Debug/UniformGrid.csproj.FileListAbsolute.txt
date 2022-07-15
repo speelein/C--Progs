@@ -1,0 +1,12 @@
+U:\Eigene Dateien\C#\BspUeb\WPF\Layoutcontainer\UniformGrid\bin\Debug\UniformGrid.exe
+U:\Eigene Dateien\C#\BspUeb\WPF\Layoutcontainer\UniformGrid\bin\Debug\UniformGrid.pdb
+U:\Eigene Dateien\C#\BspUeb\WPF\Layoutcontainer\UniformGrid\obj\Debug\UniformGrid.csprojResolveAssemblyReference.cache
+U:\Eigene Dateien\C#\BspUeb\WPF\Layoutcontainer\UniformGrid\obj\Debug\MainWindow.baml
+U:\Eigene Dateien\C#\BspUeb\WPF\Layoutcontainer\UniformGrid\obj\Debug\MainWindow.g.cs
+U:\Eigene Dateien\C#\BspUeb\WPF\Layoutcontainer\UniformGrid\obj\Debug\App.g.cs
+U:\Eigene Dateien\C#\BspUeb\WPF\Layoutcontainer\UniformGrid\obj\Debug\UniformGrid_MarkupCompile.cache
+U:\Eigene Dateien\C#\BspUeb\WPF\Layoutcontainer\UniformGrid\obj\Debug\UniformGrid.g.resources
+U:\Eigene Dateien\C#\BspUeb\WPF\Layoutcontainer\UniformGrid\obj\Debug\UniformGrid.Properties.Resources.resources
+U:\Eigene Dateien\C#\BspUeb\WPF\Layoutcontainer\UniformGrid\obj\Debug\UniformGrid.csproj.GenerateResource.Cache
+U:\Eigene Dateien\C#\BspUeb\WPF\Layoutcontainer\UniformGrid\obj\Debug\UniformGrid.exe
+U:\Eigene Dateien\C#\BspUeb\WPF\Layoutcontainer\UniformGrid\obj\Debug\UniformGrid.pdb

@@ -1,0 +1,5 @@
+bin\Debug\DauerSender.exe
+bin\Debug\DauerSender.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DauerSender.exe
+obj\Debug\DauerSender.pdb

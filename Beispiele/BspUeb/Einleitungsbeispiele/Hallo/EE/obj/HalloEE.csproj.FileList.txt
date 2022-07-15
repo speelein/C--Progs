@@ -1,0 +1,4 @@
+bin\Debug\HalloEE.exe
+bin\Debug\HalloEE.pdb
+obj\Debug\HalloEE.exe
+obj\Debug\HalloEE.pdb

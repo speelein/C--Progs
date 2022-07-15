@@ -1,0 +1,5 @@
+bin\Debug\Kollision.exe
+bin\Debug\Kollision.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Kollision.exe
+obj\Debug\Kollision.pdb

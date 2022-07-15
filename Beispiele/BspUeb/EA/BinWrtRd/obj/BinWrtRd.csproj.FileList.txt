@@ -1,0 +1,8 @@
+bin\Debug\BinWrtRd.exe
+bin\Debug\BinWrtRd.pdb
+obj\Debug\BinWrtRd.exe
+obj\Debug\BinWrtRd.pdb
+bin\Release\BinWrtRd.exe
+bin\Release\BinWrtRd.pdb
+obj\Release\BinWrtRd.exe
+obj\Release\BinWrtRd.pdb

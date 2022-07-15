@@ -1,0 +1,8 @@
+bin\Release\b6 Rekursion.exe
+bin\Release\b6 Rekursion.pdb
+obj\Release\b6 Rekursion.exe
+obj\Release\b6 Rekursion.pdb
+bin\Debug\b6 Rekursion.exe
+bin\Debug\b6 Rekursion.pdb
+obj\Debug\b6 Rekursion.exe
+obj\Debug\b6 Rekursion.pdb

@@ -1,0 +1,7 @@
+E:\Daten\Skripte u. Kurse\C#\Kurse\2018.10\BspUeb\Elementare Sprachelemente\Prog\bin\Debug\Prog.exe.config
+E:\Daten\Skripte u. Kurse\C#\Kurse\2018.10\BspUeb\Elementare Sprachelemente\Prog\bin\Debug\Prog.exe
+E:\Daten\Skripte u. Kurse\C#\Kurse\2018.10\BspUeb\Elementare Sprachelemente\Prog\bin\Debug\Prog.pdb
+E:\Daten\Skripte u. Kurse\C#\Kurse\2018.10\BspUeb\Elementare Sprachelemente\Prog\obj\Debug\Prog.csprojAssemblyReference.cache
+E:\Daten\Skripte u. Kurse\C#\Kurse\2018.10\BspUeb\Elementare Sprachelemente\Prog\obj\Debug\Prog.csproj.CoreCompileInputs.cache
+E:\Daten\Skripte u. Kurse\C#\Kurse\2018.10\BspUeb\Elementare Sprachelemente\Prog\obj\Debug\Prog.exe
+E:\Daten\Skripte u. Kurse\C#\Kurse\2018.10\BspUeb\Elementare Sprachelemente\Prog\obj\Debug\Prog.pdb

@@ -1,0 +1,12 @@
+U:\Eigene Dateien\C#\BspUeb\WPF\Steuerelemente\Einstieg\bin\Debug\Steuerelemente.exe
+U:\Eigene Dateien\C#\BspUeb\WPF\Steuerelemente\Einstieg\bin\Debug\Steuerelemente.pdb
+U:\Eigene Dateien\C#\BspUeb\WPF\Steuerelemente\Einstieg\obj\x86\Debug\Einstieg.csprojResolveAssemblyReference.cache
+U:\Eigene Dateien\C#\BspUeb\WPF\Steuerelemente\Einstieg\obj\x86\Debug\MainWindow.baml
+U:\Eigene Dateien\C#\BspUeb\WPF\Steuerelemente\Einstieg\obj\x86\Debug\MainWindow.g.cs
+U:\Eigene Dateien\C#\BspUeb\WPF\Steuerelemente\Einstieg\obj\x86\Debug\App.g.cs
+U:\Eigene Dateien\C#\BspUeb\WPF\Steuerelemente\Einstieg\obj\x86\Debug\Steuerelemente_MarkupCompile.cache
+U:\Eigene Dateien\C#\BspUeb\WPF\Steuerelemente\Einstieg\obj\x86\Debug\Steuerelemente.g.resources
+U:\Eigene Dateien\C#\BspUeb\WPF\Steuerelemente\Einstieg\obj\x86\Debug\Steuerelemente.Properties.Resources.resources
+U:\Eigene Dateien\C#\BspUeb\WPF\Steuerelemente\Einstieg\obj\x86\Debug\Einstieg.csproj.GenerateResource.Cache
+U:\Eigene Dateien\C#\BspUeb\WPF\Steuerelemente\Einstieg\obj\x86\Debug\Steuerelemente.exe
+U:\Eigene Dateien\C#\BspUeb\WPF\Steuerelemente\Einstieg\obj\x86\Debug\Steuerelemente.pdb

@@ -1,0 +1,8 @@
+bin\Release\b2 Konstruktoren.exe
+bin\Release\b2 Konstruktoren.pdb
+obj\Release\b2 Konstruktoren.exe
+obj\Release\b2 Konstruktoren.pdb
+bin\Debug\b2 Konstruktoren.exe
+bin\Debug\b2 Konstruktoren.pdb
+obj\Debug\b2 Konstruktoren.exe
+obj\Debug\b2 Konstruktoren.pdb

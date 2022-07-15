@@ -1,0 +1,5 @@
+bin\Debug\POST.exe
+bin\Debug\POST.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\POST.exe
+obj\Debug\POST.pdb

@@ -1,0 +1,5 @@
+bin\Debug\AddRemoveItems.exe
+bin\Debug\AddRemoveItems.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AddRemoveItems.exe
+obj\Debug\AddRemoveItems.pdb

@@ -1,0 +1,8 @@
+bin\Release\PerST.exe
+bin\Release\PerST.pdb
+obj\Release\PerST.exe
+obj\Release\PerST.pdb
+bin\Debug\PerST.exe
+bin\Debug\PerST.pdb
+obj\Debug\PerST.exe
+obj\Debug\PerST.pdb

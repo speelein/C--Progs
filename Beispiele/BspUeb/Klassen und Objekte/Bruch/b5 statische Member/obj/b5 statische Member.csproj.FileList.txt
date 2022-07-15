@@ -1,0 +1,8 @@
+bin\Release\b5 statische Member.exe
+bin\Release\b5 statische Member.pdb
+obj\Release\b5 statische Member.exe
+obj\Release\b5 statische Member.pdb
+bin\Debug\b5 statische Member.exe
+bin\Debug\b5 statische Member.pdb
+obj\Debug\b5 statische Member.exe
+obj\Debug\b5 statische Member.pdb

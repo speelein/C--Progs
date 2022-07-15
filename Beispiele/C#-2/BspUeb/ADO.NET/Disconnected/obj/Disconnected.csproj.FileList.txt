@@ -1,0 +1,6 @@
+bin\Debug\Disconnected.exe.config
+bin\Debug\Disconnected.exe
+bin\Debug\Disconnected.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Disconnected.exe
+obj\Debug\Disconnected.pdb

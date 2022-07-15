@@ -1,0 +1,8 @@
+bin\Release\ResetAbort.exe
+bin\Release\ResetAbort.pdb
+obj\Release\ResetAbort.exe
+obj\Release\ResetAbort.pdb
+bin\Debug\ResetAbort.exe
+bin\Debug\ResetAbort.pdb
+obj\Debug\ResetAbort.exe
+obj\Debug\ResetAbort.pdb

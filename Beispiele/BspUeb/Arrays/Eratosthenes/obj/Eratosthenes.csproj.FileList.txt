@@ -1,0 +1,4 @@
+bin\Debug\Eratosthenes.exe
+bin\Debug\Eratosthenes.pdb
+obj\Debug\Eratosthenes.exe
+obj\Debug\Eratosthenes.pdb

@@ -1,0 +1,4 @@
+bin\Debug\ArgumentOutOfRangeException.exe
+bin\Debug\ArgumentOutOfRangeException.pdb
+obj\Debug\ArgumentOutOfRangeException.exe
+obj\Debug\ArgumentOutOfRangeException.pdb

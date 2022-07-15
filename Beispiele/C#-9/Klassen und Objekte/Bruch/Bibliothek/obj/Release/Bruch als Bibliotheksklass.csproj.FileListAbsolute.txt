@@ -1,0 +1,6 @@
+E:\Daten\Skripte u. Kurse\C#\Kurse\2020.11\BspUeb\Klassen und Objekte\Bruch\Bibliothek\bin\Release\Bruch.dll
+E:\Daten\Skripte u. Kurse\C#\Kurse\2020.11\BspUeb\Klassen und Objekte\Bruch\Bibliothek\bin\Release\Bruch.pdb
+E:\Daten\Skripte u. Kurse\C#\Kurse\2020.11\BspUeb\Klassen und Objekte\Bruch\Bibliothek\obj\Release\Bruch als Bibliotheksklass.csprojAssemblyReference.cache
+E:\Daten\Skripte u. Kurse\C#\Kurse\2020.11\BspUeb\Klassen und Objekte\Bruch\Bibliothek\obj\Release\Bruch als Bibliotheksklass.csproj.CoreCompileInputs.cache
+E:\Daten\Skripte u. Kurse\C#\Kurse\2020.11\BspUeb\Klassen und Objekte\Bruch\Bibliothek\obj\Release\Bruch.dll
+E:\Daten\Skripte u. Kurse\C#\Kurse\2020.11\BspUeb\Klassen und Objekte\Bruch\Bibliothek\obj\Release\Bruch.pdb

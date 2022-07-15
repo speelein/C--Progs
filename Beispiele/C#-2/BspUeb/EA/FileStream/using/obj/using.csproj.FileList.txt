@@ -1,0 +1,4 @@
+bin\Debug\FileStream.exe
+bin\Debug\FileStream.pdb
+obj\Debug\FileStream.exe
+obj\Debug\FileStream.pdb

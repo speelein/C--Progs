@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\FileDownload.exe
+bin\Debug\FileDownload.pdb
+obj\Debug\FileDownload.exe
+obj\Debug\FileDownload.pdb
+bin\Release\FileDownload.exe
+bin\Release\FileDownload.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\FileDownload.exe
+obj\Release\FileDownload.pdb

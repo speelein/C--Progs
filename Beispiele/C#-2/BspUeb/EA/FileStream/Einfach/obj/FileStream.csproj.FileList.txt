@@ -1,0 +1,10 @@
+bin\Debug\FileStream.exe
+bin\Debug\FileStream.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FileStream.exe
+obj\Debug\FileStream.pdb
+bin\Release\FileStream.exe
+bin\Release\FileStream.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\FileStream.exe
+obj\Release\FileStream.pdb

@@ -1,0 +1,6 @@
+bin\Debug\Splitter.exe
+bin\Debug\Splitter.pdb
+bin\Debug\Wolfram.NETLink.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Splitter.exe
+obj\Debug\Splitter.pdb

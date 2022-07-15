@@ -1,0 +1,8 @@
+bin\Release\Synchronisation.exe
+bin\Release\Synchronisation.pdb
+obj\Release\Synchronisation.exe
+obj\Release\Synchronisation.pdb
+bin\Debug\Synchronisation.exe
+bin\Debug\Synchronisation.pdb
+obj\Debug\Synchronisation.exe
+obj\Debug\Synchronisation.pdb

@@ -1,0 +1,8 @@
+bin\Release\RaceCondition.exe
+bin\Release\RaceCondition.pdb
+obj\Release\RaceCondition.exe
+obj\Release\RaceCondition.pdb
+bin\Debug\RaceCondition.exe
+bin\Debug\RaceCondition.pdb
+obj\Debug\RaceCondition.exe
+obj\Debug\RaceCondition.pdb

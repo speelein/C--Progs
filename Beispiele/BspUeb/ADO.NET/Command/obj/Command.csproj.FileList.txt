@@ -1,0 +1,5 @@
+bin\Debug\Connect.exe
+bin\Debug\Connect.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Connect.exe
+obj\Debug\Connect.pdb

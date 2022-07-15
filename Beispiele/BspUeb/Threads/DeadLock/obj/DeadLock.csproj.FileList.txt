@@ -1,0 +1,4 @@
+bin\Debug\DeadLock.exe
+bin\Debug\DeadLock.pdb
+obj\Debug\DeadLock.exe
+obj\Debug\DeadLock.pdb

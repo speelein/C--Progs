@@ -1,0 +1,8 @@
+bin\Debug\Serialisierung.exe
+bin\Debug\Serialisierung.pdb
+obj\Debug\Serialisierung.exe
+obj\Debug\Serialisierung.pdb
+bin\Release\Serialisierung.exe
+bin\Release\Serialisierung.pdb
+obj\Release\Serialisierung.exe
+obj\Release\Serialisierung.pdb

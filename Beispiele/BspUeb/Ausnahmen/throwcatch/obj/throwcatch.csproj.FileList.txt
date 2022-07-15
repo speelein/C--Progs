@@ -1,0 +1,8 @@
+bin\Debug\Prog.exe
+bin\Debug\Prog.pdb
+obj\Debug\Prog.exe
+obj\Debug\Prog.pdb
+bin\Release\Prog.exe
+bin\Release\Prog.pdb
+obj\Release\Prog.exe
+obj\Release\Prog.pdb

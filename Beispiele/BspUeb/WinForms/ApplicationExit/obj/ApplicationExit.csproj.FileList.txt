@@ -1,0 +1,5 @@
+bin\Debug\ApplicationExit.exe
+bin\Debug\ApplicationExit.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ApplicationExit.exe
+obj\Debug\ApplicationExit.pdb

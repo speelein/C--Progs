@@ -1,0 +1,9 @@
+bin\Debug\MyAttribute.exe
+bin\Debug\MyAttribute.pdb
+obj\Debug\MyAttribute.exe
+obj\Debug\MyAttribute.pdb
+bin\Release\MyAttribute.exe
+bin\Release\MyAttribute.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\MyAttribute.exe
+obj\Release\MyAttribute.pdb

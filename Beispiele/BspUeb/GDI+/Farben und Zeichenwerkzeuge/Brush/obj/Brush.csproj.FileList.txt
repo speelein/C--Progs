@@ -1,0 +1,5 @@
+obj\Debug\Brush.exe
+obj\Debug\Brush.pdb
+bin\Debug\Brush.exe
+bin\Debug\Brush.pdb
+obj\Debug\ResolveAssemblyReference.cache

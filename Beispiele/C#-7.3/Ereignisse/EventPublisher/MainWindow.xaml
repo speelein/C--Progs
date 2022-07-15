@@ -1,0 +1,9 @@
+﻿<Window x:Class="EventPublisher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:EventPublisher"
+        Title="Event Publisher" Height="250" Width="500">
+    <Grid>
+        <local:SurpriseButton x:Name="surpriseButton" Content="7 gewinnt" Margin="30" FontSize="36"/>
+    </Grid>
+</Window>

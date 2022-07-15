@@ -1,0 +1,8 @@
+bin\Release\Punkt.exe
+bin\Release\Punkt.pdb
+obj\Release\Punkt.exe
+obj\Release\Punkt.pdb
+bin\Debug\Punkt.exe
+bin\Debug\Punkt.pdb
+obj\Debug\Punkt.exe
+obj\Debug\Punkt.pdb

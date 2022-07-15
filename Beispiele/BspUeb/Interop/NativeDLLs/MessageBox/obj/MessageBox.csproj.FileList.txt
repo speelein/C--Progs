@@ -1,0 +1,5 @@
+bin\Debug\MessageBox.exe
+bin\Debug\MessageBox.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MessageBox.exe
+obj\Debug\MessageBox.pdb

@@ -1,0 +1,8 @@
+bin\Release\b3 DuplWerte.exe
+bin\Release\b3 DuplWerte.pdb
+obj\Release\b3 DuplWerte.exe
+obj\Release\b3 DuplWerte.pdb
+bin\Debug\b3 DuplWerte.exe
+bin\Debug\b3 DuplWerte.pdb
+obj\Debug\b3 DuplWerte.exe
+obj\Debug\b3 DuplWerte.pdb

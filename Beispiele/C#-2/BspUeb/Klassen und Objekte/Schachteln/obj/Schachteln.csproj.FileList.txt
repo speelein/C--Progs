@@ -1,0 +1,4 @@
+bin\Debug\Schachteln.exe
+bin\Debug\Schachteln.pdb
+obj\Debug\Schachteln.exe
+obj\Debug\Schachteln.pdb

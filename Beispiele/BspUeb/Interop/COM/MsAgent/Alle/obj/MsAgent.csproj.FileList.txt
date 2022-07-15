@@ -1,0 +1,9 @@
+obj\Debug\Interop.AgentObjects.dll
+obj\Debug\MsAgent.csproj.ResolveComReference.cache
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\MsAgent.exe
+bin\Debug\MsAgent.pdb
+bin\Debug\Wolfram.NETLink.dll
+bin\Debug\Interop.AgentObjects.dll
+obj\Debug\MsAgent.exe
+obj\Debug\MsAgent.pdb

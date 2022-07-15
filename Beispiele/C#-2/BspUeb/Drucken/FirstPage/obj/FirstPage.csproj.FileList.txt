@@ -1,0 +1,5 @@
+bin\Debug\FirstPage.exe
+bin\Debug\FirstPage.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FirstPage.exe
+obj\Debug\FirstPage.pdb

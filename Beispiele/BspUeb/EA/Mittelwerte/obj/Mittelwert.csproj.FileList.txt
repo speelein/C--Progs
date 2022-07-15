@@ -1,0 +1,4 @@
+bin\Debug\Mittelwert.exe
+bin\Debug\Mittelwert.pdb
+obj\Debug\Mittelwert.exe
+obj\Debug\Mittelwert.pdb

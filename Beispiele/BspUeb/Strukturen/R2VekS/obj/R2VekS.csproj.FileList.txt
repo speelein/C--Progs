@@ -1,0 +1,4 @@
+bin\Debug\R2VekS.exe
+bin\Debug\R2VekS.pdb
+obj\Debug\R2VekS.exe
+obj\Debug\R2VekS.pdb

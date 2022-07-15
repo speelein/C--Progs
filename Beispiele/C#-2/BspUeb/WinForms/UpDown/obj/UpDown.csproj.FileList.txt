@@ -1,0 +1,5 @@
+obj\Debug\UpDown.exe
+obj\Debug\UpDown.pdb
+bin\Debug\UpDown.exe
+bin\Debug\UpDown.pdb
+obj\Debug\ResolveAssemblyReference.cache

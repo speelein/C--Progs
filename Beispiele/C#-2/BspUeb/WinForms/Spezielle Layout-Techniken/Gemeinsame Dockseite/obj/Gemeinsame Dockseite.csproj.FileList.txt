@@ -1,0 +1,6 @@
+bin\Debug\GemeinsameDockseite.exe
+bin\Debug\GemeinsameDockseite.pdb
+bin\Debug\Wolfram.NETLink.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GemeinsameDockseite.exe
+obj\Debug\GemeinsameDockseite.pdb

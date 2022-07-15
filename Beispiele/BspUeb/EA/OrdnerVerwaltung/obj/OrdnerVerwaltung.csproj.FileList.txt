@@ -1,0 +1,4 @@
+bin\Debug\OrdnerVerwaltung.exe
+bin\Debug\OrdnerVerwaltung.pdb
+obj\Debug\OrdnerVerwaltung.exe
+obj\Debug\OrdnerVerwaltung.pdb

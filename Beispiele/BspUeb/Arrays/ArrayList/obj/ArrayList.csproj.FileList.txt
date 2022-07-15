@@ -1,0 +1,4 @@
+bin\Debug\ArrayList.exe
+bin\Debug\ArrayList.pdb
+obj\Debug\ArrayList.exe
+obj\Debug\ArrayList.pdb

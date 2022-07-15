@@ -1,0 +1,14 @@
+U:\Eigene Dateien\C#\BspUeb\Multithreading\async await\AsyncStreamWrite\bin\Debug\AsyncStreamWrite.exe.config
+U:\Eigene Dateien\C#\BspUeb\Multithreading\async await\AsyncStreamWrite\bin\Debug\AsyncStreamWrite.exe
+U:\Eigene Dateien\C#\BspUeb\Multithreading\async await\AsyncStreamWrite\bin\Debug\AsyncStreamWrite.pdb
+U:\Eigene Dateien\C#\BspUeb\Multithreading\async await\AsyncStreamWrite\obj\Debug\AsyncStreamWrite.csprojResolveAssemblyReference.cache
+U:\Eigene Dateien\C#\BspUeb\Multithreading\async await\AsyncStreamWrite\obj\Debug\MainWindow.g.cs
+U:\Eigene Dateien\C#\BspUeb\Multithreading\async await\AsyncStreamWrite\obj\Debug\App.g.cs
+U:\Eigene Dateien\C#\BspUeb\Multithreading\async await\AsyncStreamWrite\obj\Debug\AsyncStreamWrite_MarkupCompile.cache
+U:\Eigene Dateien\C#\BspUeb\Multithreading\async await\AsyncStreamWrite\obj\Debug\AsyncStreamWrite_MarkupCompile.lref
+U:\Eigene Dateien\C#\BspUeb\Multithreading\async await\AsyncStreamWrite\obj\Debug\MainWindow.baml
+U:\Eigene Dateien\C#\BspUeb\Multithreading\async await\AsyncStreamWrite\obj\Debug\AsyncStreamWrite.g.resources
+U:\Eigene Dateien\C#\BspUeb\Multithreading\async await\AsyncStreamWrite\obj\Debug\AsyncStreamWrite.Properties.Resources.resources
+U:\Eigene Dateien\C#\BspUeb\Multithreading\async await\AsyncStreamWrite\obj\Debug\AsyncStreamWrite.csproj.GenerateResource.Cache
+U:\Eigene Dateien\C#\BspUeb\Multithreading\async await\AsyncStreamWrite\obj\Debug\AsyncStreamWrite.exe
+U:\Eigene Dateien\C#\BspUeb\Multithreading\async await\AsyncStreamWrite\obj\Debug\AsyncStreamWrite.pdb

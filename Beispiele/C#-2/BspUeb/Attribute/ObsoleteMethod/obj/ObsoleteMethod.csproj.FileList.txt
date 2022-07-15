@@ -1,0 +1,8 @@
+bin\Release\ObsoleteMethod.exe
+bin\Release\ObsoleteMethod.pdb
+obj\Release\ObsoleteMethod.exe
+obj\Release\ObsoleteMethod.pdb
+bin\Debug\ObsoleteMethod.exe
+bin\Debug\ObsoleteMethod.pdb
+obj\Debug\ObsoleteMethod.exe
+obj\Debug\ObsoleteMethod.pdb

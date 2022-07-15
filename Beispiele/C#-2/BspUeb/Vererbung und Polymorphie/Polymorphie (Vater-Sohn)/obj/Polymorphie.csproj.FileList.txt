@@ -1,0 +1,4 @@
+bin\Debug\Polymorphie.exe
+bin\Debug\Polymorphie.pdb
+obj\Debug\Polymorphie.exe
+obj\Debug\Polymorphie.pdb

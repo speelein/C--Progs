@@ -1,0 +1,5 @@
+bin\Debug\Graphics.exe
+bin\Debug\Graphics.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Graphics.exe
+obj\Debug\Graphics.pdb

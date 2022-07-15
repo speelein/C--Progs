@@ -1,0 +1,15 @@
+E:\Daten\Skripte u. Kurse\C#\Kurse\2011.04\BspUeb\WPF-Einstieg\DockPanel\bin\Debug\ColumnSpan.exe
+E:\Daten\Skripte u. Kurse\C#\Kurse\2011.04\BspUeb\WPF-Einstieg\DockPanel\bin\Debug\ColumnSpan.pdb
+E:\Daten\Skripte u. Kurse\C#\Kurse\2011.04\BspUeb\WPF-Einstieg\DockPanel\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Daten\Skripte u. Kurse\C#\Kurse\2011.04\BspUeb\WPF-Einstieg\DockPanel\obj\x86\Debug\MainWindow.baml
+E:\Daten\Skripte u. Kurse\C#\Kurse\2011.04\BspUeb\WPF-Einstieg\DockPanel\obj\x86\Debug\MainWindow.g.cs
+E:\Daten\Skripte u. Kurse\C#\Kurse\2011.04\BspUeb\WPF-Einstieg\DockPanel\obj\x86\Debug\App.g.cs
+E:\Daten\Skripte u. Kurse\C#\Kurse\2011.04\BspUeb\WPF-Einstieg\DockPanel\obj\x86\Debug\ColumnSpan_MarkupCompile.cache
+E:\Daten\Skripte u. Kurse\C#\Kurse\2011.04\BspUeb\WPF-Einstieg\DockPanel\obj\x86\Debug\ColumnSpan.g.resources
+E:\Daten\Skripte u. Kurse\C#\Kurse\2011.04\BspUeb\WPF-Einstieg\DockPanel\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+E:\Daten\Skripte u. Kurse\C#\Kurse\2011.04\BspUeb\WPF-Einstieg\DockPanel\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Daten\Skripte u. Kurse\C#\Kurse\2011.04\BspUeb\WPF-Einstieg\DockPanel\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Daten\Skripte u. Kurse\C#\Kurse\2011.04\BspUeb\WPF-Einstieg\DockPanel\obj\x86\Debug\ColumnSpan.exe
+E:\Daten\Skripte u. Kurse\C#\Kurse\2011.04\BspUeb\WPF-Einstieg\DockPanel\obj\x86\Debug\ColumnSpan.pdb
+U:\Eigene Dateien\C#\BspUeb\WPF\Layoutcontainer\DockPanel\obj\x86\Debug\ColumnSpan.exe
+U:\Eigene Dateien\C#\BspUeb\WPF\Layoutcontainer\DockPanel\obj\x86\Debug\ColumnSpan.pdb

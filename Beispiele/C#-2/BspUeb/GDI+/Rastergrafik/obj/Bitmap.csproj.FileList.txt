@@ -1,0 +1,5 @@
+bin\Debug\Bitmap.exe
+bin\Debug\Bitmap.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Bitmap.exe
+obj\Debug\Bitmap.pdb

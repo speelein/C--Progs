@@ -1,0 +1,11 @@
+﻿<Window x:Class="StackPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        SizeToContent="Height" Width="325" Title="StackPanel">
+    <StackPanel>
+        <Button Height="50">Knopf 1</Button>
+        <Button Height="50">Knopf 2</Button>
+        <Button Height="50">Knopf 3</Button>
+        <Button Height="50">K K K M</Button>
+    </StackPanel>
+</Window>

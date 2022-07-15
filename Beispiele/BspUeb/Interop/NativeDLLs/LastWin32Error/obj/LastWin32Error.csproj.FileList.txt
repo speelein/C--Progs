@@ -1,0 +1,4 @@
+bin\Debug\LastWin32Error.exe
+bin\Debug\LastWin32Error.pdb
+obj\Debug\LastWin32Error.exe
+obj\Debug\LastWin32Error.pdb

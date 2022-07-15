@@ -1,0 +1,8 @@
+bin\Release\b8 Aggregation.exe
+bin\Release\b8 Aggregation.pdb
+obj\Release\b8 Aggregation.exe
+obj\Release\b8 Aggregation.pdb
+bin\Debug\b8 Aggregation.exe
+bin\Debug\b8 Aggregation.pdb
+obj\Debug\b8 Aggregation.exe
+obj\Debug\b8 Aggregation.pdb
